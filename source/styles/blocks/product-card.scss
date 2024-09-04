@@ -1,0 +1,17 @@
+.product-card__title {
+  font-family: $primary-text-color;
+  font-size: 16px;
+  line-height: 20px;
+  color: $primary-text-color;
+}
+
+.product-card__characteristic-item {
+  list-style-type: none;
+}
+
+.product-card__characteristic-item {
+  font-family: "Lato";
+  font-size: 12px;
+  line-height: 16px;
+  color: $secondary-text-color;
+}
