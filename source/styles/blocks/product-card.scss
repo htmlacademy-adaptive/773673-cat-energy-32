@@ -9,10 +9,7 @@
 
 .product-card__characteristic-item {
   list-style-type: none;
-}
-
-.product-card__characteristic-item {
-  font-family: "Lato";
+  font-family: $secondary-font;
   font-size: 12px;
   line-height: 16px;
   color: $secondary-text-color;
