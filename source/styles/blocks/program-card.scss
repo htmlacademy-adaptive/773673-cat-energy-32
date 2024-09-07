@@ -12,3 +12,16 @@
   line-height: 18px;
   color: $secondary-text-color;
 }
+
+.program-card__link {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: $primary-font;
+  font-size: 16px;
+  line-height: 16px;
+  color: $primary-text-color;
+
+  &:active {
+    opacity: 0.3;
+  }
+}
